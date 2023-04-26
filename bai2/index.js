@@ -6,4 +6,4 @@ for(let i=1;i<=number.length;i++){
         arr.push("-");
     }
 }
-document.write(arr);
+document.write(arr.join(" "));
